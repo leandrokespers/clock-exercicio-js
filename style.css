@@ -1,0 +1,23 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #212121;
+}
+
+
+.clock-container {
+  margin: 240px auto 0;
+  font-size: 4em;
+  text-align: center;
+  align-items: center;
+  color: yellowgreen;
+  font-family: monospace;
+}
+
+.clock-container span {
+  padding: 30px;
+  background: #111;
+  border-radius: 10px;
+}
+
